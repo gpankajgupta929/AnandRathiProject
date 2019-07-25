@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="EquitySuite">
+  <test thread-count="5" name="TestCases">
+    <classes>
+      <class name="arTestCaseEquity.EquityTestCase1"/>
+      <class name="arTestCaseEquity.EquityTestCase2"/>
+      <class name="arTestCaseEquity.EquityTestCase3"/>
+      <class name="arTestCaseEquity.EquityTestCase4"/>
+      <class name="arTestCaseEquity.EquityTestCase5"/>
+      <class name="arTestCaseEquity.EquityTestCase6"/>
+      <class name="arTestCaseEquity.EquityTestCase7"/>
+      <class name="arTestCaseEquity.EquityTestCase8"/>
+      <class name="arTestCaseEquity.EquityTestCase9"/>
+      <class name="arTestCaseEquity.EquityTestCase10"/>
+      <class name="arTestCaseEquity.EquityTestCase11"/>
+      <class name="arTestCaseEquity.EquityTestCase12"/>
+      <class name="arTestCaseEquity.EquityTestCase13"/>
+      <class name="arTestCaseEquity.EquityTestCase14"/>
+      <class name="arTestCaseEquity.EquityTestCase15"/>
+      <class name="arTestCaseEquity.EquityTestCase16"/>
+      <class name="arTestCaseEquity.EquityTestCase17"/>
+      <class name="arTestCaseEquity.EquityTestCase18"/>
+      <class name="arTestCaseEquity.EquityTestCase19"/>
+      <class name="arTestCaseEquity.EquityTestCase20"/>
+      <class name="arTestCaseEquity.EquityTestCase21"/>
+      <class name="arTestCaseEquity.EquityTestCase22"/>
+      <class name="arTestCaseEquity.EquityTestCase23"/>
+      <class name="arTestCaseEquity.EquityTestCase24"/>
+      <class name="arTestCaseEquity.EquityTestCase25"/>
+      <class name="arTestCaseEquity.EquityTestCase26"/>
+      <class name="arTestCaseEquity.EquityTestCase27"/>
+    </classes>
+  </test> <!-- TestCases -->
+</suite> <!-- EquitySuite -->

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FUTSTKSuite">
+  <test thread-count="5" name="TestCases">
+    <classes>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase1"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase2"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase3"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase4"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase5"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase6"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase7"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase8"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase9"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase10"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase11"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase12"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase13"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase14"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase15"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase16"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase17"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase18"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase19"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase20"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase21"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase22"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase23"/>
+      <class name="arTestCaseFUTSTK.FUTSTKTestCase24"/>
+    </classes>
+  </test> <!-- TestCases -->
+</suite> <!-- FUTSTKSuite -->

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FUTCURSuite">
+  <test thread-count="5" name="TestCases">
+    <classes>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase1"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase2"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase3"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase4"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase5"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase6"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase7"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase8"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase9"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase10"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase11"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase12"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase13"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase14"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase15"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase16"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase17"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase18"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase19"/>
+      <class name="anandrathiTestCasesFUTCUR.FUTCURTestCase20"/>
+    </classes>
+  </test> <!-- TestCases -->
+</suite> <!-- FUTCURSuite -->

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [EquitySuite]">
+  <test thread-count="5" name="TestCases(failed)">
+    <classes>
+      <class name="arTestCaseEquity.EquityTestCase20">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase20 -->
+      <class name="arTestCaseEquity.EquityTestCase13">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase13 -->
+      <class name="arTestCaseEquity.EquityTestCase9">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase9 -->
+      <class name="arTestCaseEquity.EquityTestCase4">
+        <methods>
+          <include name="SellOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase4 -->
+      <class name="arTestCaseEquity.EquityTestCase3">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase3 -->
+      <class name="arTestCaseEquity.EquityTestCase16">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase16 -->
+      <class name="arTestCaseEquity.EquityTestCase12">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase12 -->
+      <class name="arTestCaseEquity.EquityTestCase26">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase26 -->
+      <class name="arTestCaseEquity.EquityTestCase18">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase18 -->
+      <class name="arTestCaseEquity.EquityTestCase19">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase19 -->
+      <class name="arTestCaseEquity.EquityTestCase21">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase21 -->
+      <class name="arTestCaseEquity.EquityTestCase1">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase1 -->
+      <class name="arTestCaseEquity.EquityTestCase15">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase15 -->
+      <class name="arTestCaseEquity.EquityTestCase6">
+        <methods>
+          <include name="BuyOrder"/>
+        </methods>
+      </class> <!-- arTestCaseEquity.EquityTestCase6 -->
+    </classes>
+  </test> <!-- TestCases(failed) -->
+</suite> <!-- Failed suite [EquitySuite] -->
